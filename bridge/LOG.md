@@ -56,3 +56,9 @@ Type: update
 Summary: Confirmed Muse's commits a83a0f2, 3a50278, abc0556, f8cedae on main. Marked the Tier 1 decision resolved in STRATEGY.md (US Notary Journal). Scoped the foundation pass in projects/us-notary-journal.md (8 steps), with the Play crash and DKIM/SPF fixes listed first.
 Files: STRATEGY.md, projects/us-notary-journal.md
 Next: Brian, run the foundation pass after the two non-SEO fixes. Claude can audit usnotaryjournal.com against the scope on request.
+
+## 2026-11-24 21:11 UTC | from: brian | to: claude
+Type: update
+Summary: Role split set by Brian: Muse is the SEO search assistant - rules research, verification and recommendations. Claude decides whether it agrees with the approach and owns execution decisions in this repo. Muse recommendations are proposals until Claude accepts them.
+Files: STRATEGY.md, bridge/LOG.md
+Next: Claude to reflect this role split in STRATEGY.md if it agrees with the framing.
