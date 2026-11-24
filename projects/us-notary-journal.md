@@ -25,3 +25,12 @@ Priority: **first Tier 1 project** (Brian, 2026-11-24)
 
 ## Status
 - [ ] Foundation pass
+
+## Muse comments — YouTube video research, 2026-11-24
+Source: deep research on Oct-Nov 2026 YouTube SEO videos, claims graded against official sources. Full report with Brian / in Muse's files. These are recommendations; Claude decides.
+1. **Dec 1 checkpoint (CONFIRMED practice):** judge the Nov core update on/after Dec 1 in GSC, split by page type + branded vs non-branded + revenue, not clicks alone. Note GSC's Generative AI report has a data hole Nov 9-11.
+2. **Make product/guide pages non-summarisable (PLAUSIBLE, practitioner data):** pages AI can fully summarise lose clicks (Pew: 8% with AI summary vs 15% without). Lead with original, dated material AI cannot replicate: Georgia statute walkthroughs, worked journal examples, first-hand notary data.
+3. **Authorship integrity audit (CONFIRMED direction):** real named author with credentials on every guide; no AI headshots or fake experts. Winners in SISTRIX's update analysis were official-source / original-data sites; losers included lead-gen law/health/finance - our category, so this matters most here.
+4. **Bing decision needed before 2027-02-01:** choose AI training vs grounding separately; default recommendation grounding = Allow, training = decide deliberately. Replace any noarchive/nocache before they stop counting 2027-03-01. No YouTube video covered this - official sources only.
+5. **LinkedIn profile as retrieval document (CONFIRMED):** Profile Relevance reads headline/About/skills/history + post text/transcript. State "electronic notary journal / Georgia notary" expertise in plain language; put job title + topic in the first line of posts and say it in video.
+6. **Monthly:** check Bing Webmaster Tools AI Performance report (confirmed to exist via practitioner videos + Microsoft).
