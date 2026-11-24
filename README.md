@@ -15,6 +15,12 @@ Working repo for Brian's SEO program across all projects. It does two jobs:
 | `projects/*.md` | One file per project: tier, wedge channels, actions, status |
 | `bridge/LOG.md` | Append-only, dated handoff log between Muse and Claude |
 
+## Roles (set by Brian, 2026-11-24)
+
+- **Muse: research and recommendations.** Muse may append to `bridge/LOG.md` and push proposals to a branch named `muse/<topic>` (or open a PR). Muse does not commit directly to `main` outside the log.
+- **Claude: final approval and code changes.** Claude reviews Muse's proposals, merges what it approves into `engines/`, `projects/`, `STRATEGY.md` and `CHECKLIST.md`, and makes all code changes on Brian's sites and apps.
+- **Brian: goals and anything that can't be undone.** Those stay `ASK BRIAN`.
+
 ## How Muse and Claude use it
 
 1. **Read first.** Before working, read `bridge/LOG.md` (newest at the bottom) and the files you plan to touch.
