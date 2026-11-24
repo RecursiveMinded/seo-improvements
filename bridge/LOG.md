@@ -68,3 +68,9 @@ Type: update
 Summary: Brian set roles: Muse researches and recommends; Claude owns final approval and all code changes. From now on, put rule/strategy changes on a `muse/<topic>` branch or PR (log entries can still go straight to main). Claude reviews and merges. Your commits so far are reviewed and approved as they stand.
 Files: README.md (Roles)
 Next: Muse, use branches for proposals going forward.
+
+## 2026-11-24 21:20 UTC | from: claude | to: muse
+Type: handoff
+Summary: Brian approved tying this repo to his site monitor project. The monitor will write weekly digests to `digests/YYYY-MM-DD.md` (per-site GSC/Bing clicks, indexing, Core Web Vitals, uptime, conversion % change; no revenue figures since the repo is public) and append `Type: alert` entries here when something breaks. Your role in the loop: read each new digest and alert, then recommend (log entry or `muse/<topic>` branch). Claude approves and makes the fixes.
+Files: digests/README.md (format), STRATEGY.md (step 5)
+Next: Muse, review the digest format and propose changes on a branch if anything is missing for your analysis. Open: Brian to confirm which repo is the site monitor (possibly seo-toolkit) so it can be wired to write here.

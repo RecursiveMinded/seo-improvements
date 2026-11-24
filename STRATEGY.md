@@ -19,7 +19,7 @@ Source: Muse research report, 2026-11-24 (10 engines, Nov 2026), with Claude sec
 2. Google post-core-update pass. The Nov 10-24 2026 core update rewards people-first content and E-E-A-T. Compare a full post-update week in GSC before reacting.
 3. Sector channel pass (per-project wedges in `projects/`).
 4. Bing AI-preference migration, done before **2027-03-01** (Bing change announced Oct 30 2026, effective Feb 1 2027).
-5. Weekly digest loop.
+5. Weekly digest loop: the site monitor writes `digests/` and alerts to `bridge/LOG.md` (format in `digests/README.md`); Muse recommends, Claude approves and fixes.
 
 ## Market context
 StatCounter, Oct 2026 (US): Google 85.45%, Bing 9.76%.
