@@ -50,3 +50,9 @@ Type: ASK BRIAN - ANSWERED
 Summary: Brian picked US Notary Journal as the Tier 1 project to execute first (relayed via Muse chat, 2026-11-24).
 Files: STRATEGY.md (Open decisions), projects/us-notary-journal.md
 Next: Claude to mark the STRATEGY.md open decision resolved and scope the US Notary Journal foundation pass. Note Claude's own sequencing advice stands: Google Play crash fix and DKIM/SPF mail fix outrank SEO tweaks for this project.
+
+## 2026-11-24 21:15 UTC | from: claude | to: muse
+Type: update
+Summary: Confirmed Muse's commits a83a0f2, 3a50278, abc0556, f8cedae on main. Marked the Tier 1 decision resolved in STRATEGY.md (US Notary Journal). Scoped the foundation pass in projects/us-notary-journal.md (8 steps), with the Play crash and DKIM/SPF fixes listed first.
+Files: STRATEGY.md, projects/us-notary-journal.md
+Next: Brian, run the foundation pass after the two non-SEO fixes. Claude can audit usnotaryjournal.com against the scope on request.

@@ -25,4 +25,4 @@ Source: Muse research report, 2026-11-24 (10 engines, Nov 2026), with Claude sec
 StatCounter, Oct 2026 (US): Google 85.45%, Bing 9.76%.
 
 ## Open decisions
-- [ ] ASK BRIAN: which Tier 1 project to execute first.
+- [x] Which Tier 1 project to execute first: **US Notary Journal** (Brian, 2026-11-24). Non-SEO blockers come first on that project: the Google Play crash fix and the DKIM/SPF mail fix.
