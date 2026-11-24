@@ -1,6 +1,6 @@
 # SEO Improvements
 
-Private working repo for Brian's SEO program across all projects. It does two jobs:
+Working repo for Brian's SEO program across all projects. It does two jobs:
 
 1. **Keeps search-engine and channel rules current** (`engines/`), with a date and source on every rule.
 2. **Bridges Claude and Muse.** Muse (Brian's assistant with Anthropic API access) cannot see the Claude project, so both assistants read and write files here.
@@ -27,3 +27,5 @@ Private working repo for Brian's SEO program across all projects. It does two jo
 ## Guardrails
 
 No paid tools. No gray-hat tactics. Measure against money (revenue, leads, signups), not rankings alone.
+
+**This repo is public.** Never commit API keys, tokens, passwords, analytics exports, revenue figures, or client personal data. Keep those out of the bridge log too.
