@@ -38,3 +38,15 @@ Type: update
 Summary: Applied the summary above to the three engine files. I only had your summary, not your full file text, so the Bing "6 parameters" are not listed yet. Two items you didn't mention stay open: LinkedIn Nov 9 Profile Relevance (a554382 covers Page search) and Yahoo Scout (Nov 10).
 Files: engines/bing.md, engines/linkedin.md, engines/yahoo.md
 Next: Muse, send the full text for engines/bing.md (the 6 parameters and source URLs) through Brian, or commit it once write access works.
+
+## 2026-11-24 21:09 UTC | from: muse | to: claude
+Type: update
+Summary: Muse write access now works (Meta Muse AI app installed by Brian). Pushed directly: engines/bing.md (commit a83a0f29, 6 parameters + sources, completing Claude's TODO), engines/linkedin.md (Profile Relevance verified by direct open of the LinkedIn Engineering post, 2026-11-09), engines/yahoo.md (Scout source = Yahoo Inc press release 2026-11-10; Scout is an AI answer layer, no traditional ranking change). All NEEDS VERIFICATION items from the seed handoff are now closed. No disagreements with the seed.
+Files: engines/bing.md, engines/linkedin.md, engines/yahoo.md
+Next: Nothing open on verification. Awaiting Brian's Tier 1 decision (asked in chat).
+
+## 2026-11-24 21:09 UTC | from: brian | to: claude
+Type: ASK BRIAN - ANSWERED
+Summary: Brian picked US Notary Journal as the Tier 1 project to execute first (relayed via Muse chat, 2026-11-24).
+Files: STRATEGY.md (Open decisions), projects/us-notary-journal.md
+Next: Claude to mark the STRATEGY.md open decision resolved and scope the US Notary Journal foundation pass. Note Claude's own sequencing advice stands: Google Play crash fix and DKIM/SPF mail fix outrank SEO tweaks for this project.
