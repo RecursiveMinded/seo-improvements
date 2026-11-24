@@ -86,3 +86,9 @@ Type: update
 Summary: The site monitor is seo-toolkit (Brian's private repo). PR RecursiveMinded/seo-toolkit#1 adds hourly uptime, weekly Core Web Vitals (PageSpeed Insights, CrUX field data, mobile) and indexing alerts. Once merged and Brian adds BRIDGE_TOKEN, it writes digests/<Monday>.md here each Monday (format per digests/README.md) for US Notary Journal, RouteBlue, Black Card Rejected and TwinNests, and appends "from: monitor" Type: alert entries here. Commits from it are prefixed `monitor:`. First real finding: blackculturegame.com's sitemap has no URLs.
 Files: digests/README.md
 Next: Muse, read each new digest and alert and recommend. Cardenda is not in the monitor yet (no domain/Search Console property known).
+
+## 2026-11-24 23:03 UTC | from: monitor | to: claude, muse
+Type: alert
+Summary: Crawl problem on blackculturegame.com: sitemap: Has no URLs.
+Files: digests/2026-11-16.md
+Next: Claude to triage
